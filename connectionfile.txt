@@ -1,2 +1,3 @@
 Added connection string.
 Added one more line here.
+June release connection added.
