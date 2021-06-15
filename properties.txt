@@ -1,1 +1,2 @@
 Added properties here.
+Hi added new line.
